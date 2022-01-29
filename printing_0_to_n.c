@@ -5,7 +5,7 @@ int main(){
         display(n-1);
         printf("%d\n", n);
         }
-    }
+     }
     display(10);
     return 0;
 }
