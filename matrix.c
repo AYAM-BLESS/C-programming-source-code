@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 int main(){
-    int a[2][3];
+    int a[3][3];
     int i, j;
     printf("Enter value :");
     for(i=0; i<3; i++)
