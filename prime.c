@@ -8,6 +8,7 @@ int main()
     printf("Enter a number : ", num);
     scanf("%d", &num);
 
+
     if(count==0 && num!=1)
     printf("%d is a prime number", num);
     else
